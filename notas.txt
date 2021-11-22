@@ -1,0 +1,14 @@
+-Infraestructura como servicio(Iaas)
+Infraestructure as a service(Iaas)
+la infraestructura como servicio seria cuando 
+tu eliges todo lo que requieres 
+
+plataforma como servicio(Paas)
+platform as a service(Paas)
+ya se tiene un espacio donde se puede subir el codigo
+para que funcione lo que se esta realizando
+
+software como servicio(SaaS)
+software as a servce(Saas)
+Ya no necesita ser programada por el cliente 
+solo utilizarla 
